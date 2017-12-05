@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000000"
+    android:background="#e1e1e1"
     tools:context="com.hoanganhtuan95ptit.twolineseekbar.MainActivity">
 
     <TextView
@@ -17,8 +17,17 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.hoanganhtuan95ptit.library.TwoLineSeekBar
+        android:id="@+id/twoLine"
         android:layout_width="200dp"
         android:layout_height="200dp"
-        app:high_color="#FF4081"/>
+        app:high_color="#FFE325"
+        app:line_color="#FFFFFF"
+        app:nail_color="#FFE325"
+        app:thumb_color="#FFE325"
+        app:line_width="4dp"
+        app:nail_radius="3dp"
+        app:nail_stroke_width="6dp"
+        app:thumb_radius="6dp"
+        />
 
 </android.support.constraint.ConstraintLayout>

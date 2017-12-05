@@ -4,6 +4,8 @@ android library TwoLineSeekBar
 
 # Demo
 
+[<img src="/store/Gif.gif">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) 
+
 # Project
 
 

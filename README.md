@@ -7,9 +7,9 @@ android library TwoLineSeekBar
 # Project
 
 
-Icon project | Name project | Link Google Play
+Icon | Name | Link Google Play
 ------------ | ------------ | -------------
-[<img src="/store/ic_launcher.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) | CamDoc - Document Scanner, PDF Scanner App 2018 | [<img src="/store/Store.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc)
+[<img src="/store/ic_launcher.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) | [CamDoc - Document Scanner, PDF Scanner App 2018](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc) | [<img src="/store/Store.png">](https://play.google.com/store/apps/details?id=com.hoanganhtuan01101995.camdoc)
 
 
 

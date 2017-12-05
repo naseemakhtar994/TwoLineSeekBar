@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="thumbRadius">6dp</dimen>
+    <dimen name="nailRadius">3dp</dimen>
+    <dimen name="nailStrokeWidth">6dp</dimen>
+    <dimen name="lineWidth">4dp</dimen>
+</resources>
